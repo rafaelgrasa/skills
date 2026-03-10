@@ -78,7 +78,7 @@
     "./tools/llm/llm-models/SKILL.md",
     "./tools/llm/web-search/SKILL.md",
     "./tools/social/twitter-automation/SKILL.md",
-    "./tools/utilities/agentic-browser/SKILL.md",
+    "./tools/utilities/agent-browser/SKILL.md",
     "./tools/utilities/python-executor/SKILL.md",
     "./tools/utilities/related-skill/SKILL.md",
     "./tools/video/ai-avatar-video/SKILL.md",
