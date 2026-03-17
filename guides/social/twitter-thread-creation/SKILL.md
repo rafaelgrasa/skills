@@ -10,7 +10,7 @@ Write high-engagement Twitter/X threads via [inference.sh](https://inference.sh)
 
 ## Quick Start
 
-> Requires inference.sh CLI (`infsh`). [Install instructions](https://raw.githubusercontent.com/inference-sh/skills/main/cli-install.md)
+> Requires inference.sh CLI (`infsh`). [Install instructions](https://raw.githubusercontent.com/inference-sh/skills/refs/heads/main/cli-install.md)
 
 ```bash
 infsh login

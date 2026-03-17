@@ -12,7 +12,7 @@ Create social media content for all platforms via [inference.sh](https://inferen
 
 ## Quick Start
 
-> Requires inference.sh CLI (`infsh`). [Install instructions](https://raw.githubusercontent.com/inference-sh/skills/main/cli-install.md)
+> Requires inference.sh CLI (`infsh`). [Install instructions](https://raw.githubusercontent.com/inference-sh/skills/refs/heads/main/cli-install.md)
 
 ```bash
 infsh login
