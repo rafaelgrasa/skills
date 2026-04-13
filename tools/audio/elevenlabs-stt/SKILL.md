@@ -153,7 +153,7 @@ npx skills add inference-sh/skills@elevenlabs-dubbing
 # Other STT models (Whisper)
 npx skills add inference-sh/skills@speech-to-text
 
-# Full platform skill (all 150+ apps)
+# Full platform skill (all 250+ apps)
 npx skills add inference-sh/skills@infsh-cli
 ```
 

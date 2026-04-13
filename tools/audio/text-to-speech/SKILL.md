@@ -116,7 +116,7 @@ npx skills add inference-sh/skills@elevenlabs-tts
 # ElevenLabs dialogue (multi-speaker)
 npx skills add inference-sh/skills@elevenlabs-dialogue
 
-# Full platform skill (all 150+ apps)
+# Full platform skill (all 250+ apps)
 npx skills add inference-sh/skills@infsh-cli
 
 # AI avatars (combine TTS with talking heads)

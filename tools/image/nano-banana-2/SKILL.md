@@ -150,7 +150,7 @@ for update in client.run({
 # Original Nano Banana (Gemini 3 Pro Image, Gemini 2.5 Flash Image)
 npx skills add inference-sh/skills@nano-banana
 
-# Full platform skill (all 150+ apps)
+# Full platform skill (all 250+ apps)
 npx skills add inference-sh/skills@infsh-cli
 
 # All image generation models

@@ -204,7 +204,7 @@ npx skills add inference-sh/skills@elevenlabs-music
 # Dia TTS dialogue (free alternative with S1/S2 tags)
 npx skills add inference-sh/skills@dialogue-audio
 
-# Full platform skill (all 150+ apps)
+# Full platform skill (all 250+ apps)
 npx skills add inference-sh/skills@infsh-cli
 ```
 

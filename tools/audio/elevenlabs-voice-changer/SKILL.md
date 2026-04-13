@@ -143,7 +143,7 @@ npx skills add inference-sh/skills@elevenlabs-voice-isolator
 # ElevenLabs dubbing (translate to other languages)
 npx skills add inference-sh/skills@elevenlabs-dubbing
 
-# Full platform skill (all 150+ apps)
+# Full platform skill (all 250+ apps)
 npx skills add inference-sh/skills@infsh-cli
 ```
 

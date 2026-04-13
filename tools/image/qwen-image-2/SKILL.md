@@ -164,7 +164,7 @@ infsh app run alibaba/qwen-image-2-pro --input input.json
 ## Related Skills
 
 ```bash
-# Full platform skill (all 150+ apps)
+# Full platform skill (all 250+ apps)
 npx skills add inference-sh/skills@infsh-cli
 
 # All image generation models

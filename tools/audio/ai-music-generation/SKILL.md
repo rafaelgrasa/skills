@@ -112,7 +112,7 @@ npx skills add inference-sh/skills@elevenlabs-music
 # ElevenLabs sound effects (combine with music)
 npx skills add inference-sh/skills@elevenlabs-sound-effects
 
-# Full platform skill (all 150+ apps)
+# Full platform skill (all 250+ apps)
 npx skills add inference-sh/skills@infsh-cli
 
 # Text-to-speech

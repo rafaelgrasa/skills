@@ -1,6 +1,6 @@
 {
   "name": "inference-sh",
-  "description": "AI agent skills for 150+ models via inference.sh CLI - generate images with FLUX, create videos with Veo, call LLMs, search the web, and more",
+  "description": "AI agent skills for 250+ models via inference.sh CLI - generate images with FLUX, create videos with Veo, call LLMs, search the web, and more",
   "version": "1.0.0",
   "author": {
     "name": "inference.sh",

@@ -131,7 +131,7 @@ npx skills add inference-sh/skills@elevenlabs-stt
 # ElevenLabs TTS (generate clean speech from text)
 npx skills add inference-sh/skills@elevenlabs-tts
 
-# Full platform skill (all 150+ apps)
+# Full platform skill (all 250+ apps)
 npx skills add inference-sh/skills@infsh-cli
 ```
 

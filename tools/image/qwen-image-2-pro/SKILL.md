@@ -189,7 +189,7 @@ for update in client.run({
 # Standard Qwen-Image (faster, general use)
 npx skills add inference-sh/skills@qwen-image
 
-# Full platform skill (all 150+ apps)
+# Full platform skill (all 250+ apps)
 npx skills add inference-sh/skills@infsh-cli
 
 # All image generation models

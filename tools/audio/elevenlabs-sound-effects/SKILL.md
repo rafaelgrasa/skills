@@ -185,7 +185,7 @@ npx skills add inference-sh/skills@elevenlabs-tts
 # AI music generation (Diffrythm, Tencent)
 npx skills add inference-sh/skills@ai-music-generation
 
-# Full platform skill (all 150+ apps)
+# Full platform skill (all 250+ apps)
 npx skills add inference-sh/skills@infsh-cli
 ```
 
