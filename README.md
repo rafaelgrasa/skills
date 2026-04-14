@@ -6,8 +6,26 @@ AI agent skills for 250+ models via [inference.sh](https://inference.sh) CLI. Ge
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## Esta fork — **Prospect 360 B2B** (instalar a partir daqui)
+
+Este repositório (**[rafaelgrasa/skills](https://github.com/rafaelgrasa/skills)**) é um fork público de `inference-sh/skills` e inclui a skill extra **[prospect-360-b2b](tools/llm/prospect-360-b2b/)** (pesquisa de prospect e preparação de reuniões B2B).
+
+**Quem entra nesta página e quer só esta skill:** no terminal, rode **nesta ordem**:
+
+| Ordem | Comando |
+|-------|---------|
+| **1º** | `npx skills add rafaelgrasa/skills@prospect-360-b2b -g -y` |
+| **2º** | `npx skills add inference-sh/skills@web-search -g -y` |
+
+*(O 1º baixa **deste** GitHub; o 2º instala a dependência obrigatória `web-search`, que continua no repo oficial.)*
+
+Documentação detalhada: **[tools/llm/prospect-360-b2b/README.md](tools/llm/prospect-360-b2b/README.md)**.
+
+---
+
 ## Contents
 
+- [Esta fork — Prospect 360 B2B](#esta-fork--prospect-360-b2b-instalar-a-partir-daqui)
 - [Install as Claude Code Plugin](#claude-code-plugin)
 - [Install as Skills](#install-as-skills)
 - [CLI Setup](#cli-setup)
@@ -45,13 +63,23 @@ npx skills add inference-sh/skills
 
 ### Specific Skills
 
+**Prospect 360** a partir **deste fork** (use `rafaelgrasa/skills`, não `inference-sh`, até o PR ser merged no upstream):
+
+```bash
+npx skills add rafaelgrasa/skills@prospect-360-b2b -g -y
+npx skills add inference-sh/skills@web-search -g -y
+```
+
+Outras skills (catálogo oficial):
+
 ```bash
 npx skills add inference-sh/skills@flux-image
 npx skills add inference-sh/skills@google-veo
 npx skills add inference-sh/skills@llm-models
 npx skills add inference-sh/skills@web-search
-npx skills add inference-sh/skills@prospect-360-b2b
 ```
+
+Depois de **prospect-360-b2b** existir no `inference-sh/skills`, o 1º comando poderá ser também `npx skills add inference-sh/skills@prospect-360-b2b -g -y`.
 
 ### Manual
 
